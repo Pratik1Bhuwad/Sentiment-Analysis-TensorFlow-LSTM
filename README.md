@@ -64,16 +64,16 @@ A CSV file `realistic_reviews.csv` containing:
 
 ---
 
-## 📈 Training History Visualization
+## Training History Visualization
 
 The training and validation accuracy are plotted to show model performance across epochs.
 
 ---
 
-## 📊 Output Example (WordClouds)
+## Output Example (WordClouds)
 
-![WordCloud Positive](path/to/positive_wordcloud.png)  
-![WordCloud Negative](path/to/negative_wordcloud.png)
+![WordCloud Positive](path/to/positive_wordcloud.jpg)  
+![WordCloud Negative](path/to/negative_wordcloud.jpg)
 
 ---
 
@@ -89,7 +89,7 @@ The training and validation accuracy are plotted to show model performance acros
 
 ---
 
-## ✅ Future Improvements
+## Future Improvements
 - Deploy the model using Flask or Streamlit for real-time predictions
 
 ---
