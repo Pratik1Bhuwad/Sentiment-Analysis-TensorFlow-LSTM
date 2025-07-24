@@ -72,8 +72,8 @@ The training and validation accuracy are plotted to show model performance acros
 
 ## Output Example (WordClouds)
 
-![WordCloud Negative.jpg]
-![WordCloud Positive.jpg]
+![WordCloud Positive](WordCloud Positive.jpg)  
+![WordCloud Negative](WordCloud Negative.jpg)
 
 ---
 
